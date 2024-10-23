@@ -1,0 +1,16 @@
+/*
+Theme Name: Love Nature
+Author: Prashant Deshmukh
+Description: Love Nature is a celebration of the profound connection between humans and the natural environment. This theme invites us to appreciate the intricate beauty of the flora and fauna that surround us, fostering a sense of wonder and respect for the ecosystems that sustain life. It encourages mindfulness of our impact on the planet and promotes sustainable living practices. By immersing ourselves in nature's tranquility, from the rustling of leaves to the soothing sound of a flowing river, we reconnect with our roots and find solace and inspiration. Love Nature is not just an admiration of the outdoors but a commitment to preserving its splendor for future generations.
+Requires at least: 6.0
+Tested up to: 6.5.3
+Requires PHP: 5.7
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: love-nature
+Tags: blog, block-patterns, block-styles, custom-menu, custom-colors, full-site-editing, template-editing, wide-blocks
+*/
+html {
+  scroll-behavior: smooth;
+}
